@@ -1,0 +1,156 @@
+
+nav{
+    display:flex;
+    background-color:bisque;
+    padding:10;
+    justify-content: space-between;
+    
+
+}
+nav ul{
+    display:flex;
+}
+
+nav ul li{
+    list-style-type: none;
+    text-indent: 10px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color:black;
+    
+}
+
+
+.b1{
+   
+    
+    background-color: black;
+    color:white;
+    text-align:right;
+    font-size:25px;
+    
+    padding:10px;
+
+}
+
+.b2{
+   
+    background-color:burlywood;
+    text-align:left;
+    padding:20px;
+}
+
+.b3{
+    
+    background-color:black;
+    color:white;
+    text-align: center;
+    padding:10px;
+    
+}
+
+.b4{
+    background-color:black;
+    color:white;
+    text-align: center;
+    padding: 10px;
+    
+
+
+}
+
+.b5{
+    
+    
+    background-color:burlywood;
+
+}
+
+.b6{
+    background-color:rgb(12, 12, 12);
+    color:white;
+    text-align: center; 
+    padding: 10px;
+       
+}
+
+.ob{
+    display:flex;
+    flex-direction: column;
+    flex-wrap:wrap
+    
+}
+.ob3{
+    display:flex;
+    justify-content:space-around;
+}
+.b31{
+    width:200px;
+    height:150px;
+    background-color: white;
+    border-radius: 10px;
+
+    
+}
+.b32{
+    width:200px;
+    height:150px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.b33{
+    width:200px;
+    height:150px;
+    background-color: white;
+   
+    
+}
+
+
+.ob5{
+    display:flex ;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items:flex-end;
+    padding: 10px;
+    
+    
+}
+.b51{
+    width:100px;
+    height:100px;
+    background-color:rgb(115, 4, 4);
+    background-image:url(https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/average-daily-time-spent-searching-for-answers-solutions-1200x539.png);
+    background-size:cover;
+    
+    
+}
+
+
+.b53{
+    width:100px;
+    height:100px;
+    background-color:white;
+    background-image:url(https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/average-daily-time-spent-searching-for-answers-solutions-1200x539.png);
+    background-size:cover;
+    
+}
+#id{
+
+}
+
+.inbox{
+    text-align: center;
+   
+    display:inline-block;
+    color:black;
+
+}
+
+.to{
+    display:flex;
+    justify-content: space-around;
+}
